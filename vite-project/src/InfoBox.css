@@ -1,0 +1,9 @@
+.InfoBox{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.info{
+    background-color: rgb(241, 249, 249);
+    padding: 1rem;
+}
